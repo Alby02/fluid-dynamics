@@ -1,0 +1,11 @@
+{
+    "name": "fluid-dynamics",
+    "version": "0.0.1",
+    "title": "Fluid Dynamics: Gas & Liquid Pipes",
+    "author": "Alby02",
+    "description": "This mod enhances fluid management in Factorio by introducing a system to categorize fluids as either gas or liquid. Modders can easily define specific fluid types and extend the system by adding new categories",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0"
+    ]
+}
